@@ -5,7 +5,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES DE TERROR[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/FTd5zrN.png</thumbnail>
-<externallink>#</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/TERROR/refs/heads/main/TERROR.M3U</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
